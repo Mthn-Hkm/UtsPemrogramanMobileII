@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTS Pemrograman Mobile</string>
+    <string name="nav_products">Produk</string>
+    <string name="nav_profile">Profil</string>
+    <string name="detail_produk">Detail Produk</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tags">Tags</string>
+    <string name="dimensi">Dimensi</string>
+    <string name="review">Review</string>
+    <string name="lihat_semua_review">Lihat Semua Review →</string>
+    <string name="tutup">Tutup</string>
+    <string name="semua_review">Semua Review</string>
+    <string name="profil_developer">Profil Developer</string>
+    <string name="loading">Memuat data…</string>
+    <string name="error_loading">Gagal memuat data</string>
+    <string name="daftar_produk">Daftar Produk</string>
+</resources>

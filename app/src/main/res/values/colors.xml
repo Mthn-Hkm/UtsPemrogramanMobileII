@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_dark">#FF3700B3</color>
+    <color name="accent">#FF03DAC5</color>
+    <color name="background_light">#FFF5F5F5</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="text_hint">#FF9E9E9E</color>
+    <color name="rating_star">#FFFFC107</color>
+    <color name="divider">#FFE0E0E0</color>
+    <color name="in_stock">#FF4CAF50</color>
+    <color name="low_stock">#FFFF9800</color>
+    <color name="out_of_stock">#FFF44336</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFF44336</color>
+</resources>
